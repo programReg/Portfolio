@@ -258,6 +258,7 @@ img {
 /* ===== ABOUT =====*/
 .about__container {
   row-gap: 2rem;
+  column-gap: 1rem; 
   text-align: center;
 }
 
@@ -294,11 +295,6 @@ img {
   align-items: center;
 }
 
-.skills__img {
-  border-radius: 0.5rem;
-  width: 100%;
-  max-width: 100%;
-}
 
 /* ===== PROJECTS =====*/
 .project__container {
